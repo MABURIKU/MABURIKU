@@ -1,6 +1,3 @@
-# Maverick Pigao
-### UI/UX | Front-end Developer
-
 # Tech Stack
 
 ### Languages
