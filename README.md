@@ -1,3 +1,6 @@
+# Maverick Pigao
+### UI/UX | Front-end Developer
+
 # Tech Stack
 
 ### Languages
@@ -28,8 +31,6 @@
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
-
-I'm cooking something....................
 
 <!--
 **MABURIKU/MABURIKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
