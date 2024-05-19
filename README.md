@@ -1,5 +1,6 @@
 <h3 align="center"> Maverick Pigao </h3> 
 <p align="center"> Front-end Developer | UI/UX | Graphic Designer<p>
+<p align="center">LinkedIn: https://www.linkedin.com/in/maburiku</p>
 <p align="center">Behance: https://www.behance.net/MABURIKU</p>
 
 >#### Languages
