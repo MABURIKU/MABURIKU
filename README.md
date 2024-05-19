@@ -1,6 +1,6 @@
 <h3 align="center"> Maverick Pigao </h3> 
 <p align="center"> Front-end Developer | UI/UX | Graphic Designer<p>
-<p align="center">W.I.P. Portfolio: https://www.behance.net/MABURIKU</p>
+<p align="center">Behance: https://www.behance.net/MABURIKU</p>
 
 >#### Languages
 [![Java](https://img.shields.io/badge/Java-F89917?style=for-the-badge)]()
