@@ -32,6 +32,8 @@
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MABURIKU&show_icons=true&bg_color=75,252525,3F4E5A&title_color=00FF8A&icon_color=00FF8A&text_color=f5f5f5&hide_border=true&rank_icon=percentile"/>
-
-<img src="https://streak-stats.demolab.com?user=MABURIKU&theme=transparent"/>
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MABURIKU&show_icons=true&bg_color=75,252525,3F4E5A&title_color=00FF8A&icon_color=00FF8A&text_color=f5f5f5&hide_border=true&rank_icon=percentile"/>
+  
+  <img height="200px" src="https://streak-stats.demolab.com?user=MABURIKU&theme=transparent"/>
+</div>
