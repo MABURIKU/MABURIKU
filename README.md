@@ -1,8 +1,10 @@
-<h1> Maverick Pigao </h1> 
-<p> Front-end Developer | UI/UX | Graphic Designer<p>
+<h1 align="center"> Maverick Pigao </h1> 
+<p align="center"> Front-end Developer | UI/UX | Graphic Designer<p>
 
-<div>LinkedIn: https://www.linkedin.com/in/maburiku</div>
-<div>Behance: https://www.behance.net/MABURIKU</div>
+<div align="center">
+  <span>LinkedIn: https://www.linkedin.com/in/maburiku</span>
+  <span>Behance: https://www.behance.net/MABURIKU</span>
+</div>
 
 <br/>
 <div align="center">
