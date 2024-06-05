@@ -1,5 +1,5 @@
 <h1 align="center"> Maverick Pigao </h1> 
-<p align="center"> Front-end Developer | UI/UX | Graphic Designer<p>
+<p align="center" color="green"> <code>Front-end Developer</code> - <code>UI/UX</code> - <code>Graphic Designer</code> <p>
 
 <div align="center">
   <span>LinkedIn: https://www.linkedin.com/in/maburiku</span>
