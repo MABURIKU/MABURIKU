@@ -3,7 +3,6 @@
 
 <div align="center">
   <span>LinkedIn: https://www.linkedin.com/in/maburiku</span>
-  <span>Behance: https://www.behance.net/MABURIKU</span>
 </div>
 
 <br/>
